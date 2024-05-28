@@ -46,6 +46,3 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=darshannnnnnnnnn&theme=radical&column=7&margin-w=15&margin-h=15" alt="Trophies" />
 </p>
-<div align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" />
-</div>
