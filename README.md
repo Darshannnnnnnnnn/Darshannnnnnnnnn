@@ -32,17 +32,4 @@
   <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" alt="Photoshop" height="40" width="40" />
   <img src="https://img.icons8.com/color/48/000000/adobe-xd.png" alt="Adobe XD" height="40" width="40" />
 </p>
-<h3 align="left">GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darshannnnnnnnnn&show_icons=true&locale=en&theme=radical" alt="darshannnnnnnnnn" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=darshannnnnnnnnn&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshannnnnnnnnn&theme=radical" alt="GitHub Streak" />
-</p>
-<h3 align="left">GitHub Trophies:</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=darshannnnnnnnnn&theme=radical&column=7&margin-w=15&margin-h=15" alt="Trophies" />
-</p>
+
